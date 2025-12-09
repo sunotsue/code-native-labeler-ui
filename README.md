@@ -1,7 +1,13 @@
 
   # Code Task Labeling App
 
-  This is a code bundle for Code Task Labeling App. The original project is available at https://www.figma.com/design/1se3JNF2SW5yXgfPIMOqaC/Code-Task-Labeling-App.
+  This is a code bundle for a Code-Native Labeler UI for a data annotation company. 
+  
+- Opens a repo snapshot at a commit (with file tree) 
+- Has one-click run_tests and shows CI logs inline
+- Enforces “no cheating” constraints (e.g., block edits to tests if allow_test_edits=false)
+- Shows side-by-side diffs for multiple candidates + tool traces
+ 
 
   ## Running the code
 

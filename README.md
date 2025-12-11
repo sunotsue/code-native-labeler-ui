@@ -4,7 +4,7 @@
   This is a code bundle for a Code-Native Labeler UI for a data annotation company. 
   The UI can be accessed here: https://www.figma.com/community/file/1577236297032714690
 
-  ![App UI Screenshot](images/ui.png)
+  ![App UI Screenshot](images/ui_fixed.png)
   
 - Opens a repo snapshot at a commit (with file tree) 
 - Has one-click run_tests and shows CI logs inline

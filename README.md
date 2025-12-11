@@ -18,3 +18,4 @@ Run `npm i` to install the dependencies.
 
 Run `npm run dev` to start the development server.
   
+MIT License © 2025 sunotsue

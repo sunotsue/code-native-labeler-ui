@@ -12,10 +12,9 @@
 - Enforces “no cheating” constraints (e.g., block edits to tests if allow_test_edits=false)
 - Shows side-by-side diffs for multiple candidates + tool traces
  
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+Run `npm run dev` to start the development server.
   
